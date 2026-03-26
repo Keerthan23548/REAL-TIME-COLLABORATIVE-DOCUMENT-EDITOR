@@ -1,5 +1,17 @@
 # REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR
 
+COMPANY : CODTECH IT SOLUTIONS PVT LTD
+
+NAME : PESALA VENKATA NAGA KEERTHAN
+
+INTERN ID : CTIS1340
+
+DOMAIN : FULL STACK WEB DEVEELOPMENT
+
+DURATION : 3 WEEKS
+
+MENTOR : NEELA SANTHOSH KUMAR
+
 Real-Time Collaborative Document Editor
 
 The Real-Time Collaborative Document Editor is a web-based application that allows multiple users to create, edit, and collaborate on documents simultaneously in real time. This project demonstrates the integration of modern frontend frameworks, backend technologies, and databases to build a scalable and interactive collaborative platform.
